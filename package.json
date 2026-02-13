@@ -1,0 +1,13 @@
+{
+  "name": "aplictali-for-fm",
+  "version": "1.0.0",
+  "description": "FM Application",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js"
+  },
+  "keywords": ["fm", "application"],
+  "author": "",
+  "license": "MIT"
+}
